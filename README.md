@@ -1,2 +1,2 @@
-# webhooks-client
-A sample webhooks client application using Flask.
+# webhook-client
+A sample webhook client application using Flask.
